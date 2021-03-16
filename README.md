@@ -1,2 +1,2 @@
-# test_repo_ds
+# Data Science Course First Files
 Test repository for data science course
