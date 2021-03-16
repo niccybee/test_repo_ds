@@ -1,0 +1,1 @@
+Initial document for testing adding file via command line after setting up SSH 
